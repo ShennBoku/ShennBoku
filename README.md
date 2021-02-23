@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there 👋,  <br> I'm Afdhalul Ichsan Yourdan
+![I'm Afdhalul Ichsan Yourdan](https://raw.githubusercontent.com/ShennBoku/ShennBoku/main/Shennboku.png)
 
-<!--
-**ShennBoku/ShennBoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Information
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Atlantic-Group.co.id](https://atlantic-group.co.id/) 
+- 🌱 I’m currently learning NodeJS 
+- 💼 I’m pursuing a Bachelor of Informatics Engineering degree
+- 📫 How to reach me: afdhalul@atlantic-group.co.id 
+- ⚡ Fun fact: nothing. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My Github Most Used Language
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShennBoku&theme=vue">
+  
+
+## My Github Performance Overall
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShennBoku&show_icons=true&count_private=true)  
+
+
+## My Github Metrics
+
+![GitHub metrics](https://metrics.lecoq.io/ShennBoku)  
+
+
+## Social Media
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShennBoku)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ShennBoku)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/afdhalul-ichsan-yourdan-ba7201204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ShennBoku)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ShennBoku/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ShennBoku)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.shenn.id/)  
