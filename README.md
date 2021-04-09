@@ -3,10 +3,10 @@
 
 ## Information
 
-- 🔭 I’m currently working on [Atlantic-Group.co.id](https://atlantic-group.co.id/) 
+- 🔭 I’m currently working on [VIP Reseller](https://vip-reseller.co.id/) 
 - 🌱 I’m currently learning NodeJS 
 - 💼 I’m pursuing a Bachelor of Informatics Engineering degree
-- 📫 How to reach me: afdhalul@atlantic-group.co.id 
+- 📫 How to reach me: afdhalul@shenn.id 
 - ⚡ Fun fact: nothing. 
 
 
