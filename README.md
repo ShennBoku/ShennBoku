@@ -4,7 +4,7 @@
 ## Information
 
 - 🔭 I’m currently working on [VIP Reseller](https://vip-reseller.co.id/) 
-- 🌱 I’m currently learning NodeJS 
+- 🌱 I’m currently learning Python & NodeJS 
 - 💼 I’m pursuing a Bachelor of Informatics Engineering degree
 - 📫 How to reach me: afdhalul@shenn.id 
 - ⚡ Fun fact: nothing. 
