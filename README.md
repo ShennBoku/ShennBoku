@@ -3,12 +3,15 @@
 
 ## Information
 
-- 🔭 I’m currently working on [VIP Reseller](https://vip-reseller.co.id/) 
+- 🔭 I’m currently working on [ShennX Network](https://shennx.net/) 
 - 🌱 I’m currently learning Python & NodeJS 
 - 💼 I’m pursuing a Bachelor of Informatics Engineering degree
 - 📫 How to reach me: afdhalul@shenn.id 
 - ⚡ Fun fact: nothing. 
 
+## Currently listening to
+
+<a href="https://volt.fm/ShennBoku" target="_blank"><img src="https://spotify-nowplay-badge-shennboku.vercel.app/api/now-playing.svg" width="540" height="52" alt="now playing"></a>
 
 ## My Github Most Used Language
 
