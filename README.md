@@ -5,9 +5,9 @@
 
 Hey there, you can call me Ichsan or Sun ☀️. I'm a Junior Full Stack Web and FiveM Server Developer, currently learning other programming languages like Python, NodeJS, LUA, etc.
 - 🔭 I'm currently dev on [Kyogo Island](https://discord.gg/XGaNQZ8R2e) 
-- 🌱 I'm currently developing a FiveM (GTA V) server for [SPC Project](https://discord.gg/XGaNQZ8R2e)
+- 🌱 I'm currently developing a FiveM (GTA V) server for [Castaway's Hope Project](https://discord.gg/XGaNQZ8R2e)
 - 💼 I'm pursuing a Bachelor of Informatics Engineering degree
-- 📫 How to reach me: afdhalul@shenn.id 
+- 📫 How to reach me: -
 
 
 ## Currently listening to
